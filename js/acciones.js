@@ -14,4 +14,7 @@
 	$('#B_Rex').tap(function (e) {
  	 $.mobile.navigate( "#Rex" );
 	});
+	$('#tri').tap(function (e) {
+ 	 $.mobile.navigate( "#tre" );
+	});
 });//ready
