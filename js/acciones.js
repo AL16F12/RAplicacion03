@@ -17,4 +17,7 @@
 	$('#tri').tap(function (e) {
  	 $.mobile.navigate( "#tre" );
 	});
+	$('#acerca').tap(function (e) {
+ 	 $.mobile.navigate( "#acercade" );
+	});
 });//ready
